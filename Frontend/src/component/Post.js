@@ -201,9 +201,9 @@ function Post({ post }) {
             </div>
             <div className="post-answer">{ReactHtmlParser(_a?.answer)}</div>
           </div>
-        </div>  
+        </div>
       ))}
-      </div>
+    </div>
     // </div>
   )
 }
