@@ -24,7 +24,7 @@ function Login() {
                     Login to continue
                 </button>
             </div>
-        </div>
+        </div> 
     );
 }
 
