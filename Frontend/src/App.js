@@ -28,8 +28,6 @@ function App() {
   return (
     <div className='App'>
       {user ? <Askaro /> : <Login />}
-      <Askaro />
-
     </div>
   );
 }
